@@ -1,2 +1,6 @@
 # Canvas-LTI-App
-Initial commit of creating a LTI integrated Canvas App for learning algorithms
+Setting up Django:
+Get Started
+https://www.djangoproject.com/start/
+What I used to start a template
+https://docs.djangoproject.com/en/3.0/intro/tutorial01/
